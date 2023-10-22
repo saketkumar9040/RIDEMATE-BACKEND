@@ -6,7 +6,7 @@
   "type":"module",
   "scripts": {
     "start":"npm index.js",
-    "dev":"npm nodemon index.js"
+    "dev":"npx nodemon index.js"
   },
   "author": "@saketkumar",
   "license": "ISC",
