@@ -5,7 +5,8 @@
   "main": "index.js",
   "type":"module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"npm index.js",
+    "dev":"npm nodemon index.js"
   },
   "author": "@saketkumar",
   "license": "ISC",
